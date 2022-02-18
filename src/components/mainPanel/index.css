@@ -1,0 +1,18 @@
+.main-panel-wrapper {
+    height: 100vh;
+    background-color: #f1f1f1;
+    overflow: hidden;
+}
+
+.main-panel-wrapper .help-text {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.isActive {
+    background-color: #ccffd8;
+}
+
+.canDrop {
+    background-color: #fcffcc;
+}

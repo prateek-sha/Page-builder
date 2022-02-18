@@ -1,0 +1,18 @@
+.side-panel-wrapper {
+    background-color: #2D2D2D;
+    padding: 20px 24px;
+    height: 100vh;
+    color: #FFFFFF;
+}
+
+.side-panel-wrapper .title {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+
+.side-panel-wrapper .item-wrapper {
+    display: flex;
+    flex-direction: column;
+}
